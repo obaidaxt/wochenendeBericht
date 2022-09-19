@@ -2,7 +2,7 @@
 
 | **Name der Auszubildende :** | Obaida Aljjarrah |
 |:--------|:--------|
-| **Ausbildungsjahr :** | Erstes Jahr Kalendrwoche 37 |  
+| **Ausbildungsjahr :** | Erstes Jahr Kalendrwoche 36 |  
 | **Ausbildungsbereich :** | Fachinformatiker Anwendungsentwicklung |  
 | **Ausbildungswoche :** | **vom** : 26.08.2022 **bis** : 02.09.2022 |
 
