@@ -14,11 +14,11 @@
 
 |**Tag**|**Beginn**|**Ende**|**Inhalt**|**Stunden**|
 |:---:|:---:|:---:|:----------------|:---:|
-|**Montag** Der Ausbildende hat uns eine Präsentation über **Flutter** gemacht und ich habe mit dem **Snackautomat** weitergearbeitet | **8 St** |
-| **Dinstag**  Der Ausbildende hat uns eine Präsentation über **pseudocode** gemacht und danach habe ich mit dem **Snackautomat** weitergearbeitet | **8 St** |
-| **Mittwoch**  ich habe mit dem **Snackautomat** weitergearbeitet und mit der  **Würfel Aufgabe auf Dart** angefangen und fertig gemacht  | **8 St** |
+|**Montag** wir haben mit einem größen Proejt Sanckautomat angefangen und eine Presentantion darüber gemacht ,wir sollten uns als Team zusammen arbeiten deshalb haben wir uns über die Aufgaben Aufteilung erstmal diskutiert und als erstes mit dim Entwurf mit **Draw IO** 
+| **Dinstag**  Der Ausbildende hat uns eine Präsentation über **Jira und Bitbucket** gemacht und danach habe ich mit dem **Snackautomat**  weiter an meinem Teil mit GUI zu arbeiten die anderen haben mit Dart gearbeitet | **8 St** |
+| **Mittwoch**  ich habe mit dem **Snackautomat** GUI weitergearbeitet und wir haben eine Presentation über riverpod State Manaegent und die neue riverpod in unserem Projekt benutzt  | **8 St** |
 | **Donnerstag**  ich habe mit dem **Snackautomat** weitergearbeitet und mit der **Komprimierung Aufgabe auf Dart** angefangen  | **8 St** |
-| **Freitag** ich habe mit dem **Snackautomat** und **Komprimierung Aufgabe** weitergearbeitet | **8 St** |
+| **Freitag** wir haben eine Präsentation über Algorithmus und Psyocode und ich habe weiter mit **snackautomat Aufgabe** weitergearbeitet | **8 St** |
 
 
 
