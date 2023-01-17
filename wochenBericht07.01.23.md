@@ -11,7 +11,7 @@
 
 
 
-  *  Der Ausbildende hat eine Präsentation über **Zahlen System** gemacht und hat uns erklärt wie man zwichen Dezimalzahl Binärzahl und Hexadezimal die Zahlen umrechnen kann.**und wir haben mit eine neue Porjekt darüber angefangen**, ein Zahlumrechner in flutter zu relaisieren, erstmal begann ich mit dem GUI Umsetzen jetzt kann ich alle drei Zahlen in Textfiled schreiben und in Ergebnissfield das Ergebniss anzeigen ich muss noch an die Funktionen und Logik arbeiten.
+  *  Der Ausbildende hat eine Präsentation über **Zahlen System** gemacht und hat uns erklärt wie man zwichen Dezimalzahl Binärzahl und Hexadezimal die Zahlen umrechnen kann.**und wir haben mit eine neue Porjekt darüber angefangen**, ein Zahlumrechner in flutter zu relaisieren, erstmal begann ich mit dem GUI Umsetzung jetzt kann ich alle drei Zahlen in Textfiled schreiben und in Ergebnissfield das Ergebniss anzeigen ich muss noch an die Funktionen und Logik arbeiten.
 
 
 
