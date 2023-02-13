@@ -18,7 +18,7 @@
 &nbsp;
 
 &nbsp;
-
+  
 * **Datum und Unteschrift des Auszubildenden** :
 &nbsp;
 &nbsp;
